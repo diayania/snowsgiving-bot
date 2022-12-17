@@ -1,5 +1,5 @@
 {
-  "DISCORD_BOT_TOKEN": "MTA1MzUzMzE3Mzg4OTM3MjIyMA.G49mQJ.ANMiV1zMbWr4kc0vJ2bYDAno4WB9MDlV0kiS4I",
+  "DISCORD_BOT_TOKEN": "",
   "MONGO_DB_URI": "mongodb+srv://aio:aio@cluster0.l95qz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "BOT_INVITE_LINK": "https://discord.com/oauth2/authorize?client_id=1053533173889372220&permissions=51200&scope=bot%20applications.commands",
   "SUPPORT_SERVER_LINK": "https://discord.gg",
